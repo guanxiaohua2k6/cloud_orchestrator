@@ -37,7 +37,7 @@
       "type": "github",
       "url": "https://github.com/docomoinnovations/cloud_orchestrator"
     },
-    {
+    "cloud_orchestrator_test": {
       "type": "vcs",
       "url": "https://git.drupalcode.org/sandbox/guanxiaohua-3403259.git"
     }
